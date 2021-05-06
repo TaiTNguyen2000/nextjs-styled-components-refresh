@@ -4,4 +4,6 @@ When using NextJS with Styled-Components, upon refreshing the page, Styled-Compo
 1. Create .babelrc file in **root** folder
 2. Create _document.js  file in **pages** folder
 3. Install **babel-plugin-styled-components** as a DevDependency
+
+
 *npm install babel-plugin-styled-components --save-dev*
